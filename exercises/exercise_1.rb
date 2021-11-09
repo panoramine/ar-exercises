@@ -11,4 +11,4 @@ richmond_store = Store.create(name: "Richmond", annual_revenue: 1260000, mens_ap
 
 gastown_store = Store.create(name: "Gastown", annual_revenue: 190000, mens_apparel: true, womens_apparel: false)
 
- puts Store.count
+puts Store.count
